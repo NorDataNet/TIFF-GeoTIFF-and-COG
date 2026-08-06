@@ -2,6 +2,9 @@
 
 A Jupyter Book explaining the TIFF, GeoTIFF, and Cloud Optimized GeoTIFF (COG) formats.
 
+View the book here:
+https://nordatanet.github.io/TIFF-GeoTIFF-and-COG/
+
 ## Overview
 
 This book provides a comprehensive introduction to:
