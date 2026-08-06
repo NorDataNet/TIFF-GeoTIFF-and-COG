@@ -17,10 +17,10 @@ TIFF, GeoTIFF, and COG are layered formats: COG is a GeoTIFF, and GeoTIFF is a T
 
 ## **Why This Tutorial?**
 This guide is designed for **researchers, scientific data managers, and anyone working with geospatial or image-based data** who needs to:
-✅ Understand the **structure, metadata, and use cases** of TIFF, GeoTIFF, and COG.
-✅ Assess their **strengths and weaknesses** for scientific applications.
-✅ Learn **when to use (or avoid) these formats** in your workflows.
-✅ Explore how these formats **compare to other formats** in terms of flexibility, metadata standards and interoperability.
+- ✅ Understand the **structure, metadata, and use cases** of TIFF, GeoTIFF, and COG.
+- ✅ Assess their **strengths and weaknesses** for scientific applications.
+- ✅ Learn **when to use (or avoid) these formats** in your workflows.
+- ✅ Explore how these formats **compare to other formats** in terms of flexibility, metadata standards and interoperability.
 
 
 ```{tableofcontents}
